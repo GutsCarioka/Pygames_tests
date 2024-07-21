@@ -9,9 +9,6 @@
 ## Linguagens Utilizadas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-## Biblioteca Utilizada
-![python](https://www.pygame.org/news)
-
 ## Banco de Dados Utilizados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
